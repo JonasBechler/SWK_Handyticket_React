@@ -7,7 +7,7 @@ import Main from './SWK_React_Template/src/components/Main/Main';
 
 function App() {
 	const name = "Handyticket";
-	const icon = require("./Bicycle.png");
+	const icon = require("./Handyticket.png");
 	config.port = config.handyticket.port
 	config.port_react = config.handyticket.port_react
 
