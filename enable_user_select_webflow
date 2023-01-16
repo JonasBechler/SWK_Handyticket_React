@@ -1,1 +1,0 @@
-document.getElementsByTagName('code').forEach(element => element.style.userSelect = "text");
